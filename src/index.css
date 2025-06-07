@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Airbnb Cereal App;
+  transition: all .2s ease-in-out;
+}
+
+.wrapper{
+  max-width: 2000px;
+  margin: 0 auto;
+}
+
+.clearfix{
+  clear: both;
+}
+.blue-button {
+  border: 1px solid #3685FB;
+  outline: none;
+  border-radius: 10px;
+  background: #3685FB;
+  color: #FFF;
+  text-align: center;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  padding: 16px 28px;
+  cursor: pointer;
+}
+
+.blue-button:hover {
+  background: #FFF;
+  border: 1px solid #3685FB;
+  color: #3685FB;
+}
+
+.blue-button:active {
+  transition: all .1s ease-in-out;
+  color: #FFF;
+  border: 1px solid #3685FB;
+  background: #3685FB;
+  opacity: 0.5;
+}
+
+.container {
+  width: 1400px;
+  margin: 0 auto;
+}

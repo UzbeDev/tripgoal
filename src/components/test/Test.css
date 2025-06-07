@@ -1,0 +1,128 @@
+.test-section {
+  margin-top: 0;
+  background: #F8F8F8;
+  padding-bottom: 120px;
+}
+.test-section .sub-title {
+  padding-top: 150px;
+  color: var(--blue-light, #00B3A0);
+  text-align: center;
+  /* Sub title */
+  font-family: Airbnb Cereal App;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  /* 112.5% */
+}
+.test-section .title {
+  color: var(--blue-dark, #002248);
+  text-align: center;
+  font-family: Eksell Display;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52px;
+  /* 123.81% */
+  text-transform: capitalize;
+  margin: 10px 0 0 0;
+}
+.test-section .desc {
+  color: var(--paragraph-color-h-3, #697687);
+  text-align: center;
+  margin-top: 20px;
+  /* Paragraph */
+  font-family: Airbnb Cereal App;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  /* 175% */
+}
+.test-section .test-main {
+  position: relative;
+}
+.test-section .test-main .carusel {
+  position: absolute;
+  top: 30%;
+  right: 30%;
+  width: 500px;
+}
+.test-section .test-main .card {
+  border-radius: 10px;
+  background: #FFF;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  padding: 30px 50px;
+  cursor: pointer;
+}
+.test-section .test-main .card .text {
+  margin-top: 20px;
+  margin-bottom: 14px;
+  color: #697687;
+  text-align: center;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+.test-section .test-main .card .name {
+  color: #002248;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 18px;
+}
+.test-section .test-main .card .job {
+  color: #697687;
+  text-align: center;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px;
+  margin-bottom: 20px;
+}
+.test-section .test-main .person1, .test-section .test-main .person2, .test-section .test-main .person3, .test-section .test-main .person4, .test-section .test-main .person5, .test-section .test-main .person6, .test-section .test-main .person7, .test-section .test-main .person8 {
+  border-radius: 50%;
+  border: 5px solid #FFF;
+  position: absolute;
+  cursor: pointer;
+}
+.test-section .test-main .person1:hover, .test-section .test-main .person2:hover, .test-section .test-main .person3:hover, .test-section .test-main .person4:hover, .test-section .test-main .person5:hover, .test-section .test-main .person6:hover, .test-section .test-main .person7:hover, .test-section .test-main .person8:hover {
+  box-shadow: -7px 6px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.test-section .test-main .person1 {
+  top: 8%;
+  left: 15%;
+}
+.test-section .test-main .person2 {
+  top: 40%;
+  left: 17%;
+}
+.test-section .test-main .person3 {
+  top: 60%;
+  left: 10%;
+}
+.test-section .test-main .person4 {
+  top: 80%;
+  left: 20%;
+}
+.test-section .test-main .person5 {
+  top: 5%;
+  left: 48.5%;
+}
+.test-section .test-main .person6 {
+  top: 15%;
+  left: 65%;
+}
+.test-section .test-main .person7 {
+  top: 30%;
+  left: 75%;
+}
+.test-section .test-main .person8 {
+  top: 85%;
+  left: 73%;
+}/*# sourceMappingURL=Test.css.map */

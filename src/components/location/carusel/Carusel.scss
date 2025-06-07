@@ -1,0 +1,84 @@
+.car-cards {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 64px;
+    padding-bottom: 120px;
+
+    .car-card {
+        position: relative;
+        cursor: pointer;
+
+        &:hover {
+            -webkit-box-shadow: -7px 6px 8px 0px rgba(34, 60, 80, 0.2);
+            -moz-box-shadow: -7px 6px 8px 0px rgba(34, 60, 80, 0.2);
+            box-shadow: -7px 6px 8px 0px rgba(34, 60, 80, 0.2);
+        }
+
+        .card-image {
+            border-radius: 10px;
+            border: 6px solid #FFF;
+        }
+
+
+        .car-text {
+            position: absolute;
+            bottom: 0;
+            border-radius: 10px;
+            background: rgba(0, 34, 72, 0.30);
+            backdrop-filter: blur(10px);
+            margin: 30px;
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            padding: 20px;
+            cursor: pointer;
+
+            &:hover {
+                -webkit-box-shadow: -7px 6px 8px 0px rgba(34, 60, 80, 0.2);
+                -moz-box-shadow: -7px 6px 8px 0px rgba(34, 60, 80, 0.2);
+                box-shadow: -7px 6px 8px 0px rgba(34, 60, 80, 0.2);
+            }
+
+            .text {
+                .title {
+                    color: #FFF;
+                    font-family: Eksell Display;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 20px;
+                    /* 100% */
+                }
+
+                .country {
+                    color: #FFF;
+                    font-size: 16px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 28px;
+                    /* 175% */
+                    margin-top: 7px;
+                }
+            }
+
+            .price {
+                margin-left: 33px;
+
+                p {
+                    color: #FFF;
+                    text-align: right;
+                    font-family: Airbnb Cereal App;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: 24px;
+                    margin-top: 11px;
+                    /* 120% */
+                }
+            }
+        }
+    }
+
+
+}

@@ -1,0 +1,85 @@
+.about-section {
+  margin-top: 120px;
+  display: flex;
+  margin-bottom: 200px;
+  justify-content: space-around;
+  align-items: center;
+}
+.about-section .about-main .sub-title {
+  color: var(--blue-light, #00B3A0);
+  /* Sub title */
+  font-family: Airbnb Cereal App;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  /* 112.5% */
+}
+.about-section .about-main .title {
+  color: var(--blue-dark, #002248);
+  font-family: Eksell Display;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52px;
+  /* 123.81% */
+  text-transform: capitalize;
+}
+.about-section .about-main .desc {
+  color: var(--paragraph-color-h-3, #697687);
+  /* Paragraph */
+  font-family: Airbnb Cereal App;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  /* 175% */
+}
+.about-section .about-main .about-cards {
+  margin-top: 50px;
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+.about-section .about-main .about-cards .card {
+  border-radius: 10px;
+  border: 2px solid #F8F8F8;
+  padding: 32px;
+  cursor: pointer;
+}
+.about-section .about-main .about-cards .card:hover {
+  box-shadow: -7px 6px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.about-section .about-main .about-cards .card .number {
+  color: #3685FB;
+  text-align: center;
+  font-family: Eksell Display;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 550;
+  line-height: 34px;
+  /* 106.25% */
+}
+.about-section .about-main .about-cards .card .name {
+  color: var(--blue-dark, #002248);
+  text-align: center;
+  font-family: Airbnb Cereal App;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  /* 200% */
+}
+.about-section .about-img {
+  width: -moz-max-content;
+  width: max-content;
+  height: -moz-max-content;
+  height: max-content;
+  position: relative;
+}
+.about-section .about-img .img2 {
+  position: absolute;
+  left: -30%;
+  bottom: -15%;
+}/*# sourceMappingURL=About.css.map */

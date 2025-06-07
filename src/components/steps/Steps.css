@@ -1,0 +1,84 @@
+.steps-section {
+  background: #FFF;
+  margin-top: 192px;
+}
+.steps-section .sub-title {
+  color: var(--blue-light, #00B3A0);
+  text-align: center;
+  /* Sub title */
+  font-family: Airbnb Cereal App;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+  /* 112.5% */
+}
+.steps-section .title {
+  color: var(--blue-dark, #002248);
+  text-align: center;
+  font-family: Eksell Display;
+  font-size: 42px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 52px;
+  /* 123.81% */
+  text-transform: capitalize;
+}
+.steps-section .desc {
+  color: var(--paragraph-color-h-3, #697687);
+  text-align: center;
+  margin-top: 20px;
+  /* Paragraph */
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  /* 175% */
+}
+.steps-section .cards {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 71px;
+  margin-bottom: 120px;
+}
+.steps-section .cards .card {
+  border-radius: 10px;
+  border: 2px solid #F8F8F8;
+  background: #FFF;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding: 70px;
+  cursor: pointer;
+}
+.steps-section .cards .card:hover {
+  box-shadow: -7px 6px 8px 0px rgba(34, 60, 80, 0.2);
+}
+.steps-section .cards .card img {
+  margin-top: 4px;
+}
+.steps-section .cards .card .card-title {
+  color: var(--blue-dark, #002248);
+  text-align: center;
+  font-family: Airbnb Cereal App;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 28px;
+  /* 140% */
+  margin-top: 51px;
+}
+.steps-section .cards .card .card-desc {
+  color: var(--paragraph-color-h-3, #697687);
+  text-align: center;
+  /* Paragraph */
+  font-family: Airbnb Cereal App;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  /* 175% */
+  margin-top: 20px;
+}/*# sourceMappingURL=Steps.css.map */
