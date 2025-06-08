@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/tripgoal/static/css/main.0026dc5f.css",
+    "main.js": "/tripgoal/static/js/main.76bcdbb2.js",
+    "static/js/787.62d06041.chunk.js": "/tripgoal/static/js/787.62d06041.chunk.js",
+    "static/media/dotmap.svg": "/tripgoal/static/media/dotmap.e7b32504b4ccf02705560c5535309b55.svg",
+    "static/media/startnow.png": "/tripgoal/static/media/startnow.8093d0f367ce7966b649.png",
+    "static/media/about1.png": "/tripgoal/static/media/about1.84c265ce4343115cc685.png",
+    "static/media/intro-img-1.png": "/tripgoal/static/media/intro-img-1.98b35806f65ce9958acb.png",
+    "static/media/card-card2.png": "/tripgoal/static/media/card-card2.21cd9fdfbe30b9e6636a.png",
+    "static/media/card-card3.png": "/tripgoal/static/media/card-card3.37017c7dffd9e258aff1.png",
+    "static/media/card-card1.png": "/tripgoal/static/media/card-card1.1dafdd8fb287fa0aedd1.png",
+    "static/media/intro-img-2.png": "/tripgoal/static/media/intro-img-2.e1ef3f555a6ab50645b7.png",
+    "static/media/about2.png": "/tripgoal/static/media/about2.1969bdc0b65fa6c005ef.png",
+    "static/media/contact-woman.png": "/tripgoal/static/media/contact-woman.dd4cc0701facad92558c.png",
+    "static/media/caruselmg1.png": "/tripgoal/static/media/caruselmg1.39be7cb2f7b0c5ee5a41.png",
+    "static/media/caruselmg2.png": "/tripgoal/static/media/caruselmg2.a7e99960add84f495ca5.png",
+    "static/media/caruselmg3.png": "/tripgoal/static/media/caruselmg3.d5512ed570efcbdf5560.png",
+    "static/media/Calendar-card.svg": "/tripgoal/static/media/Calendar-card.e10a7c689e5cd08ca4f8920bb02974fb.svg",
+    "static/media/map.png": "/tripgoal/static/media/map.47a56ed335da43ad2128.png",
+    "static/media/pattern.svg": "/tripgoal/static/media/pattern.0e63ab54afe9ce0fd9726592d901fac2.svg",
+    "static/media/person5.png": "/tripgoal/static/media/person5.d6e6b2bdd256f54b5540.png",
+    "static/media/Chat.svg": "/tripgoal/static/media/Chat.c8295eb6d9c1d914989064739072b7f5.svg",
+    "static/media/logo.svg": "/tripgoal/static/media/logo.0d96c3cb121c4b94401ff78cbec4ee87.svg",
+    "static/media/rating 1.svg": "/tripgoal/static/media/rating 1.6a92001f1c3b20334af1be0b7a82efaf.svg",
+    "static/media/Star.svg": "/tripgoal/static/media/Star.d57f4d4a8a3b0fbc21862b773fa038a3.svg",
+    "static/media/calendar.svg": "/tripgoal/static/media/calendar.b37ba0246ea6913b555b76b8cf41ff3b.svg",
+    "static/media/instagram.svg": "/tripgoal/static/media/instagram.5a28218b495a2b87619cf1cdf9d2b2f9.svg",
+    "static/media/discord.svg": "/tripgoal/static/media/discord.08e6f1a8dc8e110b2a5835072859a366.svg",
+    "static/media/facebook.svg": "/tripgoal/static/media/facebook.b24196946f2ae757ac350be4a86045ca.svg",
+    "static/media/qushtirnoq.svg": "/tripgoal/static/media/qushtirnoq.bc55deb5062d95cf7efd71c0b75d66c0.svg",
+    "static/media/play.svg": "/tripgoal/static/media/play.107d0d13cd73b49239ee9b0834d9d342.svg",
+    "index.html": "/tripgoal/index.html",
+    "main.0026dc5f.css.map": "/tripgoal/static/css/main.0026dc5f.css.map",
+    "main.76bcdbb2.js.map": "/tripgoal/static/js/main.76bcdbb2.js.map",
+    "787.62d06041.chunk.js.map": "/tripgoal/static/js/787.62d06041.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0026dc5f.css",
+    "static/js/main.76bcdbb2.js"
+  ]
+}
